@@ -1,0 +1,12 @@
+[
+  {
+    "name" : "Stature",
+    "key" : "x",
+    "unit" : " Cm"
+  },
+  {
+    "name" : "Weight",
+    "key" : "y",
+    "unit" : " Kg"
+  }
+]
